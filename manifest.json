@@ -1,0 +1,21 @@
+{
+  "name":"izac pwa",
+  "short_name":"Izac",
+  "start_url":"/index.html",
+  "display":"standalone",
+  "background_color":"#AAFFAA",
+  "theme_color":"#AAFFAA",
+  "orientation":"portrait-primary",
+  "icons":[
+    {
+      "src":"https://docs.google.com/drawings/d/e/2PACX-1vQbGf0NxAP8Sv3efXh6SfaUF2Mj81sQ5hpwJYNFag0SLHdCvtz9qC5-S172VnqSYRzp9AUknL69pGcR/pub?w=192&h=192",
+      "type":"img/jpg",
+      "sizes":"192x192"
+    },
+    {
+      "src":"https://docs.google.com/drawings/d/e/2PACX-1vQ0yFtJQrM5KYq4LU2qRrH1Yw8qCa5PKpBvoiyYNfu6TSxQqCwpVDQPHz-9puS0KIbB6HCCEfwEuYWu/pub?w=512&h=512",
+      "type":"img/jpg",
+      "sizes":"512x512"
+    }
+  ]
+}
