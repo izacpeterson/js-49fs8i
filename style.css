@@ -1,6 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
-h1 {
-  background-color: blue;
+.headBar {
+  background-color: rgb(77, 194, 240);
 }
