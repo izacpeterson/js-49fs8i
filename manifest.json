@@ -2,7 +2,7 @@
   "name":"izac pwa",
   "short_name":"Izac",
   "start_url":"./index.html",
-  "display":"browser",
+  "display":"standalone",
   "background_color":"#AAFFAA",
   "theme_color":"#AAFFAA",
   "orientation":"portrait-primary",
