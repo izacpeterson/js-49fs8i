@@ -3,8 +3,8 @@
   "short_name":"Izac",
   "start_url":"./index.html",
   "display":"standalone",
-  "background_color":"#AAFFAA",
-  "theme_color":"#AAFFAA",
+  "background_color":"#4dc2f0",
+  "theme_color":"#4dc2f0",
   "orientation":"portrait-primary",
   "icons":[
     {
